@@ -12,6 +12,9 @@ A - A♯ - B - C - C♯ - D - D♯ - E - F - F♯ - G - G♯
 
 A - B♭ - B - C - D♭ - D - E♭ - E - F - G♭ - G - A♭ 
 
+♯ - sharp
+♭ - flat
+
 ![week3](week3.jpeg)
 
 ## Week 2
